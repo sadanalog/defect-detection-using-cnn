@@ -1,15 +1,15 @@
 
 # A Practice of Fabric Defect Detection by Using CNN
 
-This project is a part of ICT730 Hardware Designs for Embedded Systems in the TAIST-Tokyo Tech program which has written by [Isada Sukprapa](https://github.com/sadanalog) (id: 6222040302, email: sadanalog@gmail.com) and [Narusorn Siviro](https://github.com/Crizyntch) (id: 6222040310, email:: crizyntch@gmail.com).
+This project is a part of ICT730 Hardware Designs for Embedded Systems in the TAIST-Tokyo Tech program which has written by [Isada Sukprapa](https://github.com/sadanalog) (id: 6222040302, email: sadanalog@gmail.com) and [Naruson Srivaro](https://github.com/Crizyntch) (id: 6222040310, email: naruson.sri@gmail.com).
 
 Useful links:
 - Dataset: [AITEX fabric image database](https://www.aitex.es/afid/)
-- Article: [Medium](https://medium.com/p/c3e7c2a1088d/edit)
+- Article: [Medium](https://medium.com/@sadanalog/a-practice-of-fabric-defect-detection-by-using-cnn-c3e7c2a1088d)
 
 ## Abstract
 
-Defect detection is an essential quality control procedure in the manufacturing process. Presently, there are numerous research implement defect detection systems for steel surface, fruit grade, or even if the concept of the smart factory also covers defect detection. The automatic system of fabric defect detection is common to use in textile manufacturers as it is difficult to recognize defects because of the obstacles like the very small defect area or intricate texture, etc. Therefore, human responsibility can not be the best effort for these problems. Furthermore, there has been a surge of interest in IoT and machine learning techniques application in the defect detection process due to their proven reliability. Defect detection now aims to be based on Deep Learning. Our project objective is to practice the fabric defect detection by using CNN, one of the famous deep learning models, to yield an intuition of the implementation and application of CNN. We believe that this knowledge will provide us a large benefit considering that Deep Learning becomes a key to an artificial intelligence system nowadays.
+Defect detection is an essential quality control procedure in the manufacturing process. Recently, there are numerous researches that implemented defect detection systems for steel surface, fruit grade, and most notably its application in smart factories. The automatic system of fabric defect detection is commonly used in the textile manufacturing process, as it is difficult to recognize minuscule imperfections among intricate fabric texture. Therefore, human responsibility cannot be the best solution to these problems. Furthermore, there has been a surge of interest in IoT and machine learning techniques application in the defect detection process due to their proven reliability, thus, defect detection now aims to be based on Deep Learning. Our project objective is to practice the fabric defect detection by using CNN, one of the famous deep learning models, to yield an intuition of the implementation and application of CNN. The demonstration of this application will provide us with crucial information for the surging interest of this emerging field of deep learning.
 
 ## Reference
 -   [Gradient-Based Learning Applied to Document Recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
